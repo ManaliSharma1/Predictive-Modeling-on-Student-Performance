@@ -37,15 +37,7 @@ To predict a student’s math score (and pass/fail outcome) using features such 
 | Decision Tree       | ~89%     | ~0.93    |
 | Random Forest       | ~89%     | ~0.93    |
 
-## Visualizations
-
 ## Conclusion
 
 Predictive modeling can effectively analyze student academic performance.
 Among the tested models, **Logistic Regression** was the most suitable, and **academic scores** were the strongest predictors of math performance.
-
-If you want, I can also:
-
-* Shorten this further (1-page README)
-* Make it more **recruiter-friendly**
-* Align it with **Hackveda / Internship submission style**
