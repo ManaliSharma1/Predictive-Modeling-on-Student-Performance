@@ -4,7 +4,6 @@
 ## Project Overview
 
 This project focuses on building **predictive models** to analyze and predict a student’s **math performance** using demographic and academic features.
-The task was completed as part of my **Data Science Internship**, emphasizing end-to-end supervised learning.
 
 ## Objective
 
